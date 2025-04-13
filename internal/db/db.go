@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"golibfb2/models"
+	"github.com/maxx1e/golibfb2/internal/models"
 
 	_ "github.com/mattn/go-sqlite3" // SQLite driver registration.
 )

@@ -11,7 +11,7 @@ import (
 	"errors"
 	"strings"
 
-	"golibfb2/internal/models"
+	"github.com/maxx1e/golibfb2/internal/models"
 )
 
 // FictionBook represents a simplified structure of the FB2 file.
